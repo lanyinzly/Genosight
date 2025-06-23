@@ -63,13 +63,13 @@ Each figure is **anchored on-chain**, making it cryptographically verifiable and
 To ensure tamper-proof provenance and permissionless traceability, Genosight leverages Web3-native infrastructure:
 Powered by Decentralized Infrastructure
 
-🔐 On-Chain Anchoring (BSC)
+🔐 **On-Chain Anchoring (BSC)**
 Each figure’s metadata—including dataset hashes, statistical methods, and authorship—is anchored on the BNB Smart Chain (BSC), ensuring long-term immutability and public verifiability.
 
-🎖 Attribution NFTs via WrapX
+🎖 **Attribution NFTs via WrapX**
 Every finalized figure is issued as a verifiable NFT, powered by WrapX, embedding creator identity, timestamp, and methodological lineage. These NFTs can be cited, reused, and even tokenized for credit and rewards in open science ecosystems.
 
-📦 Decentralized Storage via Greenfield
+📦 **Decentralized Storage via Greenfield**
 Visual assets and their metadata bundles are optionally stored on Greenfield, BNB Chain’s decentralized storage network, enabling permissionless access and portable reproducibility across platforms.
 
 ## 🔬 Use Cases
