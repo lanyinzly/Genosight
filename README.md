@@ -59,10 +59,9 @@ Each figure is **anchored on-chain**, making it cryptographically verifiable and
 | Audit-Ready & Compliant | 21 CFR Part 11-ready, with timestamped trails and tamper-proof logs         |
 | Attribution Layer        | Figures are citable, reusable, and anchored to creator identity on-chain    |
 
----
-
-Powered by Decentralized Infrastructure
+**Powered by Decentralized Infrastructure**
 To ensure tamper-proof provenance and permissionless traceability, Genosight leverages Web3-native infrastructure:
+Powered by Decentralized Infrastructure
 
 🔐 On-Chain Anchoring (BSC)
 Each figure’s metadata—including dataset hashes, statistical methods, and authorship—is anchored on the BNB Smart Chain (BSC), ensuring long-term immutability and public verifiability.
