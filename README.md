@@ -112,3 +112,11 @@ With Genosight:
 
 **Built by scientists, for science.**  
 Genosight is not just a tool—it's a credibility layer for computational research.
+
+---
+
+## Socials
+
+LinkedIn: [Genosight](https://www.linkedin.com/company/genosight)
+webpage: [genosight.org](https://genosight.org/)
+x: [@genosight](https://x.com/genosight)
